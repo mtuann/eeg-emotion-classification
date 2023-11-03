@@ -1,0 +1,5 @@
+data_preprocessed_python/
+face_video/
+metadata_csv/
+*.zip
+data/
